@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PIPSample</string>
+    <string name="title_home">PIPSample</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="start_pip_mode">Start PIP Mode</string>
+</resources>
